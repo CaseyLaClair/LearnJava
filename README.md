@@ -1,12 +1,20 @@
 <h1>Table of Contents:</h1>
--   [Documentation](#doc)
--   [Courses]
--   [Books]
--   [Videos/Playlists]
--   [Blogs]
--   [Online Communities]
--   [Places to Practice]
--   [Other Resource Lists]
+
+1.  [Documentation](#doc)
+
+2.  Courses
+
+3.  Books
+
+4.  Videos/Playlists
+
+5.  Blogs
+
+6.  Online Communities
+
+7.  Places to Practice
+
+8.  Other Resource Lists
 
 -   <p id="doc">Documentation</p>
 
