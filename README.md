@@ -6,7 +6,7 @@
 
 3.  [Books](#books)
 
-4.  [Videos/Playlists(#videos)
+4.  [Videos/Playlists](#videos)
 
 5.  [Blogs](#blogs)
 
