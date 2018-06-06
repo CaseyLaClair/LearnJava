@@ -1,6 +1,14 @@
 <h1>Table of Contents:</h1>
+-   [Documentation](#doc)
+-   [Courses]
+-   [Books]
+-   [Videos/Playlists]
+-   [Blogs]
+-   [Online Communities]
+-   [Places to Practice]
+-   [Other Resource Lists]
 
--   Documentation
+-   <p id="doc">Documentation</p>
 
     -   <http://docs.oracle.com/javase/tutorial/>
 
