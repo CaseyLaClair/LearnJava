@@ -1,3 +1,5 @@
+This is a repository for Java learning resources. If there's an issue with one of the links or a resource you believe should be added, please create a pull request with the changes that need to be changed.
+
 <h1>Table of Contents:</h1>
 
 1.  [Documentation](#doc)
