@@ -80,6 +80,8 @@ This is a repository for Java learning resources. If there's an issue with one o
 
 -   <p id="practice">Places to Practice</p>
 
+    -   [Leet Code](https://leetcode.com/)
+    
     -   [Code Chef](https://www.codechef.com/)
 
     -   [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
